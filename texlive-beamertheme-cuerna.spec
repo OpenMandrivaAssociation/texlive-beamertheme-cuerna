@@ -1,6 +1,6 @@
 Name:		texlive-beamertheme-cuerna
 Version:	42161
-Release:	1
+Release:	2
 Summary:	A beamer theme with 4 colour palettes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beamertheme-cuerna

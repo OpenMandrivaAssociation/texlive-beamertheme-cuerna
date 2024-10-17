@@ -3,7 +3,7 @@ Version:	42161
 Release:	2
 Summary:	A beamer theme with 4 colour palettes
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beamertheme-cuerna
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/beamertheme-cuerna
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/beamertheme-cuerna.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/beamertheme-cuerna.doc.r%{version}.tar.xz
